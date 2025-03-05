@@ -1,0 +1,6 @@
+What do you want to see?
+|-> type concepts, topics.
+|-> content formats.
+		|->(images, video, text, audio, subscription based, buy only, unknown?, folder )
+|-> duration.
+|-> location.

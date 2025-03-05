@@ -1,0 +1,8 @@
+?
+creator invite code ?
+what is your email ?
+Concepts ?
+	|-> what are concepts & where to place them in db????
+save as preset ?
+	|-> preset name
+	|-> icon

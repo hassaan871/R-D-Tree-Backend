@@ -1,0 +1,36 @@
+Tree:
+signup, login
+|-> continue with email
+|-> continue with phone
+|-> continue with apple
+|-> continue with google
+|-> continue with X
+|-> continue with facebook
+
+auth0 verify phone number
+
+create profile:
+	cover img,
+	avatar,
+	name,
+	username,
+	bio,
+	personal / buisness,
+	email,
+	|-----> email verification code.
+	birthday,
+	phone number,
+	|-----> phone number is verified
+	
+tree post:
+	|-> post
+	|-> likes
+	|-> views
+	|-> comments
+			|-> likes
+			|-> replies
+					|-> likes
+					
+
+	
+

@@ -1,0 +1,6 @@
+(get) -> shorts
+(get) -> default
+(get) -> following
+(get) -> articles
+(get) -> songs
+(get) -> people
