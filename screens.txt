@@ -4,3 +4,49 @@ What do you want to see?
 		|->(images, video, text, audio, subscription based, buy only, unknown?, folder )
 |-> duration.
 |-> location.
+
+Delete preset
+
+profile:
+	(simple follow figma)
+
+edit profile:
+	(simple follow figma)
+	
+Contact us:
+
+create:
+
+free content:
+
+unlockable content:
+
+attach a listing:
+
+(main & important) home screen:
+
+reviews:
+
+text editor:
+
+market place:
+
+my purchases:
+
+choose a payment method:
+
+checkout visa:
+
+profile subscriber tab default:
+
+create carousel:
+
+settings:
+	|-> account
+	|-> social
+	|-> notifications
+	|-> Integrations
+	
+cancel tree premium:
+
+submit review with un auth:

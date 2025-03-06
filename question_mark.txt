@@ -6,3 +6,12 @@ Concepts ?
 save as preset ?
 	|-> preset name
 	|-> icon
+	
+attach a listing ?
+
+menu 
+	|-> backpack ?
+	|-> invites ?
+	|-> queue ?
+	
+subscription canceled ?

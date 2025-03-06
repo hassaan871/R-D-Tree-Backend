@@ -10,6 +10,7 @@ signup, login
 auth0 verify phone number
 
 create profile:
+  bio:-
 	cover img,
 	avatar,
 	name,
@@ -22,6 +23,27 @@ create profile:
 	phone number,
 	|-----> phone number is verified
 	
+edit profile:
+  bio:
+	(same as above)
+	
+  buisness:
+	country,
+	street address,
+	city,
+	state/province/religion,
+	zip code,
+	phone
+	
+  scenes:
+	sets,
+	...
+	...
+  links:
+	delete, edit, create new link
+	
+  content
+	
 tree post:
 	|-> post
 	|-> likes
@@ -31,6 +53,128 @@ tree post:
 			|-> replies
 					|-> likes
 					
-
+Buisness profile own user:
+	(simple follow figma)
 	
+review for this buisness:
 
+claim your buisness listing
+	claim this profile.
+	
+share profile:
+
+a special invitation for your buisness to join tree:
+	claim your profile now
+	
+verify your ownership:
+	profile approved -> access your profile now.
+	
+review your profile info:
+
+profile already claimed:
+
+contact us:
+  subjet
+	|-> get help (drop down)
+	|-> feedback
+	|-> report
+	|-> other
+  message,
+  attach file or screen shot.
+  
+verification code to access your tree profile:
+
+purchase downloadable product:
+
+get downloadable product: 
+
+download now:
+
+create: 
+  |-> Image
+  |-> video
+  |-> writing
+  |-> audio
+  |-> carousel
+  |-> project
+
+create: 
+	|-> Add thumbnail
+	|-> add a title (optional)
+	|-> description
+	|-> tags
+
+publish as:
+	|-> free content
+	|-> Exclusive for subscribers
+	|-> unlockable content
+			|-> price.
+	
+free content:
+	|-> add to project
+	|-> collaborators
+	|-> add a location
+	|-> rights to monetize (boolean)
+
+attach a listing:
+	|-> price(USD)
+	|-> limit Inventory
+	|-> listing title
+	|-> description
+	|-> file attach (max size 2gb)
+	
+view your listing:
+
+menu:
+
+review:
+	|-> all
+	|-> postivie
+	|-> negative
+  |-> submit with email
+  |-> submit with phone
+  |-> submit with tree
+  
+text editor (screen):
+	|-> save drafts
+	|-> all drafts popup
+
+create:
+
+marketplace:
+	|-> search for products
+	|-> filter
+			|-> filter by (price range, format)
+			
+purchaser tag.
+
+choose a payment method:
+
+checkout visa:
+
+single unlockable content:
+
+profile subscriber tab default:
+
+create carousel:
+
+settings:
+	|-> account
+			|-> email
+			|-> password
+			|-> new password
+			|-> confirm password
+	|-> social
+			|-> who can invite you to collaborate ? 
+					(anyone, users you follow, no one)
+			|-> who can message you ?
+					(anyone, users you follow, no one)
+	|-> notifications
+			|-> comment replies (anyone, dropdown)
+			|-> direct messages (anyone, dropdown)
+			|-> Comments on your content (anyone, dropdown)
+			|-> Leafs (anyone, dropdown)
+			|-> follows (anyone, dropdown)
+									|-> anyone, users you follow, no one
+
+submit review with un auth:
